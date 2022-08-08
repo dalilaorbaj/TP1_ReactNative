@@ -19,7 +19,6 @@ export default function App() {
         <Text style={{ alignSelf: 'center', marginTop:10}}>{mostrar}</Text>
         <StatusBar style="auto" />
       </View>
-
     </View>
   );
 }
